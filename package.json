@@ -1,0 +1,27 @@
+{
+  "name": "@dqnid/arch-bootstrap",
+  "version": "1.0.0",
+  "description": "NPX archetype bootstrap utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "@dqnid/arch-bootstrap": "bin/index.js"
+  },
+  "keywords": [
+    "npx",
+    "npm",
+    "node",
+    "nextjs",
+    "nestjs",
+    "express",
+    "mysql",
+    "docker"
+  ],
+  "author": "Daniel Heras Quesada",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
